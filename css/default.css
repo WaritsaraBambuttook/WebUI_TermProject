@@ -1,0 +1,43 @@
+.detail{
+    width: 700px;
+    height: 450px;
+}
+
+.thumbnail{
+    width: 400px;
+    height: 350px;
+}
+.searchJS{
+    font-size: 20px;
+}
+.search{
+    background: #ff6666; 
+    background: -webkit-linear-gradient#ff6666, #ff9999 ,#ffcccc);
+    background: -o-linear-gradient(#ff6666, #ff9999 ,#ffcccc); 
+    background: -moz-linear-gradient(#ff6666, #ff9999 ,#ffcccc); 
+    background: linear-gradient(#ff6666, #ff9999 ,#ffcccc);
+}
+
+.welcome{
+    background-image: url("../img/food.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -o-background-size: 100% 100%, auto;
+    -moz-background-size: 100% 100%, auto;
+    -webkit-background-size: 100% 100%, auto;
+    background-size: 100% 100%, auto;
+    
+    
+}
+.jumbotron{
+    background: transparent; 
+    color: white;
+}
+.lead{
+    font-size: 26px;
+}
+.contact{
+    
+    font-size: 20px;
+}
